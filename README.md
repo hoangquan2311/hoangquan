@@ -1,2 +1,2 @@
 # hoangquan
-learning html css
+just learning html css
